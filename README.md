@@ -1,4 +1,4 @@
-# CISSP Exam Cram Series Resource Center
+# Security+ Exam Cram Series Resource Center
 
 Welcome to my Comptia Security+ Exam Cram repository! Here, I will organize learning resources for the series, including:
 
