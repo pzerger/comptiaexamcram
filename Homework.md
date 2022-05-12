@@ -13,7 +13,7 @@ Homework assignments and follow-ups from the 8-week study group are listed here.
 
 **NOTE:** Session replays will likely only be available for a limited time, but at least through the end of the 8-week study series.
 
-[back to main menu](https://github.com/pzerger/cisspexamcram/blob/main/README.md)
+[back to main menu](https://github.com/pzerger/comptiaexamcram/blob/main/README.md)
 
 ## WEEK 1 (DOMAIN 1) - May 11th, 2022
 
