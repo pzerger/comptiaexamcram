@@ -19,4 +19,10 @@ Security+ Exam Cram playlist is available [HERE](https://youtube.com/playlist?li
 
 More will be listed as I complete 2022 updates in the next few days of May 2022.
 
+## Community (DISCORD)
+
+Join the Security-Plus channel of the Certification Station Discord. It's a great place to connect with other Security+ exam candidates, ask questions, and share resources.
+
+Join at [Certification Station Discord - Security-Plus](https://discord.gg/d954wwQv)
+
 [back to main menu](https://github.com/pzerger/comptiaexamcram/blob/main/README.md)
