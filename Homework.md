@@ -20,7 +20,9 @@ Homework assignments and follow-ups from the 8-week study group are listed here.
 Homework for week 1 is:
 
 1.Take a practice quiz of Domain 1 questions (chapters 1-4). Review explanations of wrong answers. Record your score.
+
 2.Watch [DOMAIN 1](https://youtu.be/4HGQ0uYeSaA) from my updated Security+ Exam Cram series.
+
 3.Take the free Security+ practice questions available from Comptia [HERE](https://bit.ly/2SZ79m0).
 
 **SESSION REPLAY:** Video available [HERE](https://youtu.be/WH6cBbEqn5w)
@@ -37,7 +39,9 @@ There are also some free Security+ Practice Questions available from Comptia [HE
 Homework for week 2 is:
 
 1.Take a practice quiz of domain 2 related questions (chapters 5-8) over the course of the next week. Review explanations of wrong answers. Record your score.
+
 2.Watch [DOMAIN 2](https://youtu.be/tvzfD9ET-Lk) from my updated Security+ Exam Cram series.
+
 3.Do some reading from the study guide on weak topics from the practice quizzes.
 
 **Trouble accessing online practice quizzes?** If you are amongst those struggling to access the online practice quizzes that come with the official study guide, follow the instructions in this [short how-to video](https://youtu.be/expPsyQBcPQ).
