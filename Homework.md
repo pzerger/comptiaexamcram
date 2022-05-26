@@ -52,7 +52,7 @@ Homework for week 2 is:
 
 ## WEEK 3 (DOMAIN 3) - May 25rd, 2022
 
-In this weeks homework, I'd like you to try a domain 
+For homework this week, we are going to change things up a bit with the quiz. Details below.
 
 1. Watch [DOMAIN 3](https://youtu.be/CdBD5aFLUEc) from my updated Security+ Exam Cram series.
 
