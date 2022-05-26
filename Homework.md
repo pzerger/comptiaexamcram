@@ -52,7 +52,19 @@ Homework for week 2 is:
 
 ## WEEK 3 (DOMAIN 3) - May 25rd, 2022
 
-Homework for week 3 will be posted shortly after the session.
+In this weeks homework, I'd like you to try a domain 
+
+1. Watch [DOMAIN 3](https://youtu.be/CdBD5aFLUEc) from my updated Security+ Exam Cram series.
+
+2. Take the domain 3 practice quiz from the online resources for the CompTIA Security+ Practice Tests (see Figure 1 below). Set it for the number of questions you have time for, but try to take 100 questions from domain 3 over the course over the week. Review explanations of wrong answers. Record your score.
+
+3. Do some reading from the study guide on your weak topics from the practice quiz.
+
+[Domain 3 Quiz](/images/dom3exam.png)
+
+FIGURE 1. Domain 3 Quiz in online resources (https://efficientlearning.com)
+
+**SESSION REPLAY:** Video available [HERE](https://youtu.be/1idaCCWhR5c)
 
 [back to top](#homework-and-session-replays)
 
