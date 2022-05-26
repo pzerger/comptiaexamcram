@@ -60,7 +60,7 @@ In this weeks homework, I'd like you to try a domain
 
 3. Do some reading from the study guide on your weak topics from the practice quiz.
 
-[Domain 3 Quiz](/images/dom3exam.png)
+![Domain 3 Quiz](/images/dom3exam.png)
 
 FIGURE 1. Domain 3 Quiz in online resources (https://efficientlearning.com)
 
