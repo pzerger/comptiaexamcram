@@ -60,11 +60,13 @@ In this weeks homework, I'd like you to try a domain
 
 3. Do some reading from the study guide on your weak topics from the practice quiz.
 
+**SESSION REPLAY:** Video available [HERE](https://youtu.be/1idaCCWhR5c)
+
 ![Domain 3 Quiz](/images/dom3exam.png)
 
-FIGURE 1. Domain 3 Quiz in online resources (https://efficientlearning.com)
+**FIGURE 1**. Domain 3 Quiz in online resources (https://efficientlearning.com)
 
-**SESSION REPLAY:** Video available [HERE](https://youtu.be/1idaCCWhR5c)
+
 
 [back to top](#homework-and-session-replays)
 
