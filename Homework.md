@@ -54,7 +54,7 @@ Homework for week 2 is:
 
 For homework this week, we are going to change things up a bit with the quiz. Details below.
 
-1. Watch [DOMAIN 3](https://youtu.be/CdBD5aFLUEc) from my updated Security+ Exam Cram series.
+1. Watch [DOMAIN 3](https://youtu.be/CdBD5aFLUEc) video from my updated Security+ Exam Cram series.
 
 2. Take the domain 3 practice quiz from the online resources for the CompTIA Security+ Practice Tests (see Figure 1 below). Set it for the number of questions you have time for, but try to take 100 questions from domain 3 over the course over the week. Review explanations of wrong answers. Record your score.
 
@@ -72,7 +72,18 @@ For homework this week, we are going to change things up a bit with the quiz. De
 
 ## WEEK 4 (DOMAIN 4) - June 1st, 2022
 
-Homework for week 4 will be posted shortly after the session.
+Since domain 4 includes a long list of security tools, I want you to do some quick hands-on testing as you watch the video. Details below.
+
+**IMPORTANT**: If you do not have a Linux VM, install [Windows Subsystem for Linux (click for how-to)](https://docs.microsoft.com/en-us/windows/wsl/install) and access it using [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/install).
+
+1. **VIDEO and LAB**. Watch [DOMAIN 4](https://youtu.be/9Hd8QJmZQUc?t=28872) from my updated Security+ Exam Cram series. Anytime you see me talk about a tool you are not familiar with, pause the video, and try the tool from a Windows or Linux command prompt using the example I shared when possible.
+
+2. **PRACTICE QUIZ**. Take the domain 4 practice quiz from the online resources for the CompTIA Security+ Practice Tests (see Figure 1 below). Set it for the number of questions you have time for, but try to take 100 questions from domain 3 over the course over the week. Review explanations of wrong answers. Record your score.
+
+3. **READING AND PDF**. Do some reading from the study guide on your weak topics from the practice quiz. If it helps, review the [Domain 4 Slides (pdf)](https://1drv.ms/b/s!AmhtzcmYt5AViPciEOaHzZgJUfaUwQ?e=AkeaF8) as well.
+
+**SESSION REPLAY:** Video available [HERE](https://youtu.be/tE_Y3fJ538g)
+
 
 [back to top](#homework-and-session-replays)
 
