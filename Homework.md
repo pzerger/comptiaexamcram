@@ -21,7 +21,7 @@ Homework for week 1 is:
 
 1. Take a practice quiz of Domain 1 questions (chapters 1-4). Review explanations of wrong answers. Record your score.
 
-2. Watch [DOMAIN 1](https://youtu.be/4HGQ0uYeSaA) from my updated Security+ Exam Cram series.
+2. Watch [DOMAIN 1](https://youtu.be/9Hd8QJmZQUc?t=516) from my updated Security+ Exam Cram series.
 
 3. Take the free Security+ practice questions available from Comptia [HERE](https://bit.ly/2SZ79m0).
 
@@ -40,9 +40,9 @@ Homework for week 2 is:
 
 1. Take a practice quiz of domain 2 related questions (chapters 5-8) over the course of the next week. Review explanations of wrong answers. Record your score.
 
-2. Watch [DOMAIN 2](https://youtu.be/tvzfD9ET-Lk) from my updated Security+ Exam Cram series.
+2. Watch [DOMAIN 2](https://youtu.be/9Hd8QJmZQUc?t=8340) from my updated Security+ Exam Cram series.
 
-3. Do some reading from the study guide on weak topics from the practice quizzes.
+3. Do some reading from the Official Study Guide on weak topics from the practice quizzes.
 
 **Trouble accessing online practice quizzes?** If you are amongst those struggling to access the online practice quizzes that come with the official study guide, follow the instructions in this [short how-to video](https://youtu.be/expPsyQBcPQ).
 
@@ -54,11 +54,11 @@ Homework for week 2 is:
 
 For homework this week, we are going to change things up a bit with the quiz. Details below.
 
-1. Watch [DOMAIN 3](https://youtu.be/CdBD5aFLUEc) video from my updated Security+ Exam Cram series.
+1. Watch [DOMAIN 3](https://youtu.be/9Hd8QJmZQUc?t=18715) video from my updated Security+ Exam Cram series.
 
 2. Take the domain 3 practice quiz from the online resources for the CompTIA Security+ Practice Tests (see Figure 1 below). Set it for the number of questions you have time for, but try to take 100 questions from domain 3 over the course over the week. Review explanations of wrong answers. Record your score.
 
-3. Do some reading from the study guide on your weak topics from the practice quiz.
+3. Do some reading from the Official Study Guide on your weak topics from the practice quiz.
 
 **SESSION REPLAY:** Video available [HERE](https://youtu.be/1idaCCWhR5c)
 
@@ -80,7 +80,7 @@ Since domain 4 includes a long list of security tools, I want you to do some qui
 
 2. **PRACTICE QUIZ**. Take the domain 4 practice quiz from the online resources for the CompTIA Security+ Practice Tests (see Figure 1 below). Set it for the number of questions you have time for, but try to take 100 questions from domain 3 over the course over the week. Review explanations of wrong answers. Record your score.
 
-3. **READING AND PDF**. Do some reading from the study guide on your weak topics from the practice quiz. If it helps, review the [Domain 4 Slides (pdf)](https://1drv.ms/b/s!AmhtzcmYt5AViPciEOaHzZgJUfaUwQ?e=AkeaF8) as well.
+3. **READING AND PDF**. Do some reading from the Official Study Guide on your weak topics from the practice quiz. If it helps, review the [Domain 4 Slides (pdf)](https://1drv.ms/b/s!AmhtzcmYt5AViPciEOaHzZgJUfaUwQ?e=AkeaF8) as well.
 
 **SESSION REPLAY:** Video available [HERE](https://youtu.be/tE_Y3fJ538g)
 
@@ -89,7 +89,21 @@ Since domain 4 includes a long list of security tools, I want you to do some qui
 
 ## WEEK 5 (DOMAIN 5) - June 8th, 2022
 
-Homework for week 5 will be posted shortly after the session.
+Homework for week 5 is:
+
+1. Take a practice quiz of domain 5 related questions over the course of the next few days. Review explanations of wrong answers. Record your score.
+
+Don't know how to access domain quizzes in OSG online resources? Watch [How to register for online resources in Security+ Official Study Bundle](https://youtu.be/expPsyQBcPQ) for how to acces ALL the free resources in the Official Study Guide + Practice Tests bundle.
+
+2. Watch [DOMAIN 5](https://youtu.be/9Hd8QJmZQUc?t=33859) from my updated Security+ Exam Cram series.
+
+3. Do some reading from the Official Study Guide on weak topics from the practice quizzes.
+
+4. Make sure to repeat video > quiz > reading > flashcards/PDF review > quiz until you are achieving 85%-90%.
+
+5. When your practice quiz scores reach this level, schedule the exam! GOOD LUCK! 
+
+**SESSION REPLAY:** Video available [HERE](https://youtu.be/KRz-hgeLIJY)
 
 [back to top](#homework-and-session-replays)
 
