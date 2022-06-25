@@ -1,6 +1,8 @@
 # Homework and Session Replays
 
-Homework assignments and follow-ups from the 8-week study group are listed here.
+*** This Exam Cram LIVE series is complete. Look for another later in 2022! ***
+
+Homework assignments and follow-ups from the 5-week study group are listed here.
 
 ## Homework
 
