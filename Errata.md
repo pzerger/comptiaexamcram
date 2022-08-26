@@ -4,8 +4,9 @@ Clarifications and errata from the course with timestamps.
 
   - [XSRF/CSRF definition](#xsrfcsrf-definition)
   - [Color-coding in Shared Responsibility legend](#color-coding-in-shared-responsibility-legend)
+  - [DNS port number](#DNSSEC-port-number)
 
-## XSRF/CSRF definition 
+## XSRF/CSRF definition
 
 [Timestamp: 47:46](https://youtu.be/9Hd8QJmZQUc?t=2866)
 
@@ -16,7 +17,7 @@ Cross-site request forgery takes advantage of the trust that a web application, 
 [back to top](#errata-issues-and-clarifications)
 
 
-## Color-coding in Shared Responsibility legend 
+## Color-coding in Shared Responsibility legend
 
 [Timestamp: 01:38:00](https://youtu.be/9Hd8QJmZQUc?t=5880)
 
@@ -34,3 +35,9 @@ Correction:
 
 [back to top](#errata-issues-and-clarifications)
 [back to main menu](https://github.com/pzerger/comptiaexamcram/blob/main/README.md)
+
+## DNSSEC port number
+
+[Timestamp: 01:38:00](https://youtu.be/9Hd8QJmZQUc?t=18761)
+
+There is a small typo in the slide. DNSSEC shows port 55, but should be port 53.
