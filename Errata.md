@@ -5,6 +5,7 @@ Clarifications and errata from the course with timestamps.
   - [XSRF/CSRF definition](#xsrfcsrf-definition)
   - [Color-coding in Shared Responsibility legend](#color-coding-in-shared-responsibility-legend)
   - [DNS port number](#DNSSEC-port-number)
+  - [Stream vs Block cipher speed](#stream-vs-block-cipher-speed)
 
 ## XSRF/CSRF definition
 
@@ -15,7 +16,6 @@ Cross-site request forgery takes advantage of the trust that a web application, 
  You will also see this sometimes stated as "trust a website has for your browser", but "trust a website has in a user" is how that should be stated, not the other way around.
 
 [back to top](#errata-issues-and-clarifications)
-
 
 ## Color-coding in Shared Responsibility legend
 
@@ -41,3 +41,13 @@ Correction:
 [Timestamp: 01:38:00](https://youtu.be/9Hd8QJmZQUc?t=18761)
 
 There is a small typo in the slide. DNSSEC shows port 55, but should be port 53.
+
+[back to top](#errata-issues-and-clarifications)
+
+## Stream vs Block cipher speed
+
+[Timestamp: 05:05:18](https://youtu.be/9Hd8QJmZQUc?t=18318)
+
+Stream cipher is actually the fast one.
+
+[back to top](#errata-issues-and-clarifications)
